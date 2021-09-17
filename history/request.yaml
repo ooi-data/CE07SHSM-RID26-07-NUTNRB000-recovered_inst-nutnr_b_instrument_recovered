@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE07SHSM-RID26-07-NUTNRB000-recovered_inst-nutnr_b_instrument_recovered
-last_request: '2021-08-01T01:36:10.815585Z'
+last_request: '2021-09-17T23:52:13.548432Z'
 response: https://raw.githubusercontent.com/ooi-data/CE07SHSM-RID26-07-NUTNRB000-recovered_inst-nutnr_b_instrument_recovered/main/history/response.json
 status: pending
